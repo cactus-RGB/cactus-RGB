@@ -1,13 +1,4 @@
-# 👋 Hi, I'm Ibrahim Abubeker!  
-
-- 🎓 Computer Science student at the University of North Texas  
-- 💻 Tech Support Assistant @ HPS IT | Passionate about cybersecurity & programming  
-- 🛠️ Skilled in Python, Typescript, React, and hardware troubleshooting  
-- 🌍 Multilingual: Amharic, Harari, Arabic, Spanish (and learning Japanese!)  
-- 🚀 Building an app to promote exploration through interactive maps
-- 🌍 President of the International Student Advisory Board (ISAB) | Also making a website for this!
-- 🤖 Interested in machine learning, AI, and cool new tech  
-- 📌 Currently seeking a Summer 2025 internship  
+# Welcome to my Github
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibu-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibu04nebil@gmail.com) 
